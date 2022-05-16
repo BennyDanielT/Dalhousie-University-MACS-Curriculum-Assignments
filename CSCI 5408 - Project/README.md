@@ -1,4 +1,3 @@
-![Pipeline Status](https://git.cs.dal.ca/qsyed/csci-5408-w2022-dpg7/badges/main/pipeline.svg) ![Quality Score](https://qscored.com/badge/d13770d3df7bae5b1ad643c464b66adf65208cdc84850f9293b5dbd00d7b760e/score/) ![QScored Rank](https://qscored.com/badge/d13770d3df7bae5b1ad643c464b66adf65208cdc84850f9293b5dbd00d7b760e/rank/)
 **<h1>CSCI5408 - Data Management, Warehousing, Analytics - Winter 2022</h1>**
 
  <h2>Project Details</h2>
