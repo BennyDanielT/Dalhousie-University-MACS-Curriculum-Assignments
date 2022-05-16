@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc.Driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../CSCI 5308/Assignments/Assignment_1/com.mysql.jdbc.Driver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
