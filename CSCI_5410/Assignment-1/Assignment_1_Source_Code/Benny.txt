@@ -1,0 +1,2 @@
+CSCI-5410-S2022-B00899629-Benny Daniel
+Assignment 1 - Problem 2. Java APIS for AWS S3 service.

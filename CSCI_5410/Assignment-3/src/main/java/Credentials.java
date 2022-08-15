@@ -1,0 +1,6 @@
+public class Credentials
+{
+public static String aws_access_key_id="ASIA3PYLANH43XS6PTZC";
+public static String aws_secret_access_key="nYn0fXP4hF5WdX1HS1LSq8yRZfnPPcIS1me833wh";
+public static String aws_session_token="FwoGZXIvYXdzEMD//////////wEaDOejS12x8Lz20s+NhyLAAeG/rqEhdeRHW7O38Q++O+PeC0yLAEombnSafqEISrO73CSvHQdwjYIwS5NZ9klXPNI5GAxmcO0sgLThY/9Ajf9QabnNba+9LsQCNI61Soj+EdKi7fZvYDlAa4yCd8p1GeOVUvROaW4DYPhcNbWrxCXJSSVQWSUQyOLmscS9Bg5BfxzMW0zJjghmXTq3veqwCGXesil1LydS0iKuFXJBPKB+SArJzXY3eziV+H/IkZx3z9VYTC/VPNM++PcDOyDwOyin05uWBjIt+H5bSIq7iHPCA71vWO2UxD26wlvMqmw7wBYlKz+rxiF2qFfKIUg7436aINLF";
+}

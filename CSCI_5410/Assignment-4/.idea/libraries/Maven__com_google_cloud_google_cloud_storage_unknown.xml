@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.cloud:google-cloud-storage:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-storage/unknown/google-cloud-storage-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-storage/unknown/google-cloud-storage-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/cloud/google-cloud-storage/unknown/google-cloud-storage-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

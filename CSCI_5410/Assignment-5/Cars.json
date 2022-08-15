@@ -1,0 +1,125 @@
+{
+"Cars": [
+    {
+        "Car": {
+"DataType": "String",
+"StringValue": "Mercedes"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "850"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 17:45:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Porsche 911"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "1000"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 11:30:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Honda Civic"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "875"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 16:00:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Toyota Camry"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "555"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 12:15:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Volkswagen Jetta"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "4206"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 13:57:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Ferrari F40"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "6996"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 08:15:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Audi R8"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "369"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 09:45:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Lamborghini Gallardo"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "1255"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 17:57:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Nissan GTR"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "896"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 14:00:45.670959"
+}},
+        {"Car": {
+    "DataType": "String",
+    "StringValue": "Ford Mustang"
+},
+"Cost": {
+    "DataType": "String",
+    "StringValue": "2560"
+},
+"Date": {
+    "DataType": "String",
+    "StringValue": "2022-07-23 18:00:45.670959"
+}}
+    ]
+    }
